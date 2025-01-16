@@ -1,4 +1,4 @@
-baseURL = "https://usl-workshop.github.io/USL-2025-website/"
+baseURL = "https://usl-workshop.github.io/"
 languageCode = "en"
 title = "User-Scheduable Languages Workshop 2025"
 theme = "hugo-theme-monochrome"
