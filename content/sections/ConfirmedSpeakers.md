@@ -8,3 +8,4 @@ weight: 10
 - [Carl-Johan Seger](https://scholar.google.com/citations?user=MACCA0cAAAAJ&hl=en), Chalmers University, Sweden
 - [Alex Aiken](https://theory.stanford.edu/~aiken/), Stanford University, USA
 - [Oleksandr Zinenko](https://scholar.google.com/citations?user=tgSptI4AAAAJ&hl=en), Designer of the MLIR Transform Dialect, France
+- [Alex Reinking](https://alexreinking.com/), Adobe, USA
