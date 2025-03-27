@@ -3,15 +3,59 @@ title: 'Program'
 weight: 5
 ---
 
-- 09:00: Introduction 
-- 09:10 - 09:40: Mary Hall
-- 09:40 - 10:00: Thomas Kœhler
-- 10:00 - 10:20: Carl-Johan Seger
-- 10:20 - 10:30: Shared Q&A
-
-- 10:30 - 11:00: Coffe Break
-
-- 11:00 - 11:20: Alex Aiken
-- 11:20 - 11:40: Alex Reinking
-- 11:40 - 12:00: Alex Zinenko
-- 12:00 - 12:30: Panel on the challenges of making User-Scheduable Languages mainbstream
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Talk</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00</td>
+      <td>Introduction</td>
+    </tr>
+    <tr>
+      <td>9:10 - 9:40</td>
+      <td>Mary Hall</td>
+    </tr>
+    <tr>
+      <td>9:40 - 10:00</td>
+      <td>Thomas Koehler</td>
+    </tr>
+    <tr>
+      <td>10:00 - 10:20</td>
+      <td>Carl-Johan Seger</td>
+    </tr>
+    <tr>
+      <td>10:20 - 10:30</td>
+      <td>Shared Q&A of all the prior speakers</td>
+    </tr>
+    <tr><td><br/></td></tr>
+    <tr>
+      <td>10:30 - 11:00</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr><td><br/></td></tr>
+    <tr>
+      <td>11:00 - 11:20</td>
+      <td>Alex Aiken</td>
+    </tr>
+    <tr>
+      <td>11:20 - 11:40</td>
+      <td>Alex Reinking</td>
+    </tr>
+    <tr>
+      <td>11:40 - 12:00</td>
+      <td>Alex Zinenko</td>
+    </tr>
+    <tr>
+      <td>12:00-12:30</td>
+      <td>Panel on the challenges of making Scheduling Languages mainstream</td>
+    </tr>
+    <tr>
+      <td>12:30</td>
+      <td>End of the Workshop</td>
+    </tr>
+  </tbody>
+</table>
