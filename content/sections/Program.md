@@ -17,11 +17,11 @@ weight: 5
     </tr>
     <tr>
       <td>9:10 - 9:40</td>
-      <td>Mary Hall</td>
+      <td><em>Mary Hall</em></td>
     </tr>
     <tr>
       <td>9:40 - 10:00</td>
-      <td>Thomas Koehler</td>
+      <td><em>Thomas Koehler</em></td>
     </tr>
     <tr>
       <td>10:00 - 10:20</td>
@@ -39,15 +39,15 @@ weight: 5
     <tr><td><br/></td></tr>
     <tr>
       <td>11:00 - 11:20</td>
-      <td>Alex Aiken</td>
+      <td><em>Alex Aiken</em></td>
     </tr>
     <tr>
       <td>11:20 - 11:40</td>
-      <td>Alex Reinking</td>
+      <td><em>Alex Reinking</em></td>
     </tr>
     <tr>
       <td>11:40 - 12:00</td>
-      <td>Alex Zinenko</td>
+      <td><em>Alex Zinenko</em></td>
     </tr>
     <tr>
       <td>12:00-12:30</td>
