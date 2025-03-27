@@ -25,7 +25,7 @@ weight: 5
     </tr>
     <tr>
       <td>10:00 - 10:20</td>
-      <td><emph>Carl-Johan Seger</emph> on <strong>Design of Domain Specific Hardware</strong></td>
+      <td><em>Carl-Johan Seger</em> on <strong>Design of Domain Specific Hardware</strong></td>
     </tr>
     <tr>
       <td>10:20 - 10:30</td>
