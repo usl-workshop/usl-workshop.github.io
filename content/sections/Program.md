@@ -3,6 +3,7 @@ title: 'Program'
 weight: 5
 ---
 
+| --- | ---- |
 | 09:00 | Introduction |
 | 09:10 - 09:40 | Mary Hall |
 | 09:40 - 10:00 | Thomas Kœhler |
