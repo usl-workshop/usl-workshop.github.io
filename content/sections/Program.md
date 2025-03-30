@@ -17,11 +17,11 @@ weight: 5
     </tr>
     <tr>
       <td>9:10 - 9:40</td>
-      <td><em>Mary Hall</em></td>
+      <td><em>Mary Hall</em> on <strong>Scheduling Languages: A Past, Present, and Future Taxonomy</strong></td>
     </tr>
     <tr>
       <td>9:40 - 10:00</td>
-      <td><em>Thomas Koehler</em></td>
+      <td><em>Thomas Koehler</em> on <strong>A Case For Interactive Optimization Assistants</strong></td>
     </tr>
     <tr>
       <td>10:00 - 10:20</td>
@@ -39,15 +39,15 @@ weight: 5
     <tr><td><br/></td></tr>
     <tr>
       <td>11:00 - 11:20</td>
-      <td><em>Alex Aiken</em></td>
+      <td><em>Alex Aiken</em> on <strong>User-Schedulable Aspects of Supercomputer Programming Models: What Works?</strong></td>
     </tr>
     <tr>
       <td>11:20 - 11:40</td>
-      <td><em>Alex Reinking</em></td>
+      <td><em>Alex Reinking</em> on <strong>Halide: Industrial experience, design retrospective, and future directions</strong></td>
     </tr>
     <tr>
       <td>11:40 - 12:00</td>
-      <td><em>Alex Zinenko</em></td>
+      <td><em>Alex Zinenko</em> on <strong>Transform dialect: a compiler IR for schedule languages</strong></td>
     </tr>
     <tr>
       <td>12:00-12:30</td>
