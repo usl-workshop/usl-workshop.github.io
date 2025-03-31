@@ -1,6 +1,6 @@
 baseURL = "https://usl-workshop.github.io/"
 languageCode = "en"
-title = "User-Scheduable Languages Workshop 2025"
+title = "User-Schedulable Languages Workshop 2025"
 theme = "hugo-theme-monochrome"
 enableEmoji = true
 enableGitInfo = false
